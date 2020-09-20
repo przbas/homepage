@@ -10,7 +10,7 @@ const url = dev ? '/' : 'homepage';
 
 polka() // You can also use Express
 	.use(
-		'/homepage',
+		url,
 		compression({ threshold: 0 }),
 		sirv('static', { dev }),
 		sapper.middleware()
