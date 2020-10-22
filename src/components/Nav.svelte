@@ -6,12 +6,17 @@
 	nav {
 		border-bottom: 1px solid rgba(255,62,0,0.1);
 		font-weight: 300;
-		padding: 0 1em;
+		padding: 0 0,5em;
+		display: flex;
 	}
 
 	ul {
 		margin: 0;
 		padding: 0;
+	}
+
+	ul:first-of-type {
+		margin-right: auto;
 	}
 
 	/* clearfix */
@@ -50,8 +55,11 @@
 
 <nav>
 	<ul>
-		<li><a aria-current="{segment === undefined ? 'page' : undefined}" href=".">home</a></li>
-		<li><a aria-current="{segment === 'about' ? 'page' : undefined}" href="about">about</a></li>
+		<li><a aria-current="{segment === undefined ? 'page' : undefined}" href=".">Przemysław Baśkiewicz</a></li>
+	</ul>
+	<ul>
+		<li><a aria-current="{segment === 'praca' ? 'page' : undefined}" href="praca">praca</a></li>
+		<li><a aria-current="{segment === 'pasje' ? 'page' : undefined}" href="pasje">pasje</a></li>
 
 		<!-- for the blog link, we're using rel=prefetch so that Sapper prefetches
 		     the blog data when we hover over the link or tap it on a touchscreen -->
