@@ -51,6 +51,10 @@
 	.content :global(li) {
 		margin: 0 0 0.5em 0;
 	}
+
+	.date {
+		color: chocolate;
+	}
 </style>
 
 <svelte:head>
@@ -58,6 +62,8 @@
 </svelte:head>
 
 <h1>{post.title}</h1>
+
+<div class="date">{post.date}</div>
 
 <div class='content'>
 	{@html post.html}

@@ -5,7 +5,7 @@
 <h1>Moje pasje</h1>
 
 <h3>Programowanie</h3>
-<p>This is the 'about' page. There's not much here.</p>
+<p>Tu pokarzę swoje dotychczasowe projekty.</p>
 
 <h3>Speedcubing</h3>
 <p>O kostce rubika.</p>

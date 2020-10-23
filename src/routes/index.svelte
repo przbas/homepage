@@ -1,3 +1,6 @@
+<script>
+
+</script>
 <style>
 	h1, p {
 		text-align: center;
@@ -17,15 +20,18 @@
 
 	@media (min-width: 480px) {
 		h1 {
-			font-size: 4em;
+			font-size: 3em;
 		}
 	}
 </style>
 
 <svelte:head>
-	<title>Sapper project template</title>
+	<title>Przemysław Baśkiewicz | strona domowa</title>
 </svelte:head>
 
-<h1>Wielki sukces!</h1>
+<h1>Witaj!</h1>
 
-<p><strong>Tu będą informacje początkowe</strong></p>
+<p><strong>Przemysław Baśkiewicz</strong></p>
+<p><img src="foto.png" alt="Moja fotka"></p>
+<p>Jestem konstruktorem, programistą amatorem, lubię łamigłówki.</p>
+<p>Ta strona jest wynikiem mojej pasji i zainteresowań.</p>
