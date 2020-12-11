@@ -17,6 +17,8 @@
 		font-weight: 300;
 		padding: 0;
 		display: flex;
+		justify-content: space-between;
+		align-items: center;
 		max-width: 56em;
 		margin: 0 auto;
 	}
@@ -26,9 +28,6 @@
 		padding: 0 20px;
 	}
 
-	ul:first-of-type {
-		margin-right: auto;
-	}
 
 	/* clearfix */
 	ul::after {
@@ -62,6 +61,14 @@
 		padding: 0.5em 0.5em;
 		display: block;
 	}
+
+	/* Mobile */
+	@media (max-width: 500px) {
+		nav {
+			flex-direction: column;
+		}
+	}
+
 </style>
 
 <div>
