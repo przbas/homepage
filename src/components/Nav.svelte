@@ -9,7 +9,7 @@
 		top: 0;
 		left: 0;
 		width: 100vw;
-		background-color: khaki;
+		background-color: rgb(209, 195, 157);
 	}
 
 	nav {
@@ -50,8 +50,8 @@
 		position: absolute;
 		content: '';
 		width: calc(100% - 1em);
-		height: 2px;
-		background-color: rgb(255,62,0);
+		height: 3px;
+		background-color: rgb(100, 139, 28);
 		display: block;
 		bottom: -1px;
 	}

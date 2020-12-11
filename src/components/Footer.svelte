@@ -9,7 +9,7 @@
         width: 100vw;
         text-align: center;
         border-top: 1px solid rgba(255,62,0,0.1);
-        background-color: khaki;
+        background-color: rgb(192, 190, 172);
     }
 
     div {

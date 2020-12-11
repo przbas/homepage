@@ -9,6 +9,14 @@
 
 const posts = [
 	{
+		title: 'Post Drugi',
+		slug: 'post-drugi',
+		date: '2020-12-11',
+		html: `
+			<p>Drugi wpis w ramach sprawdzenia działania strony.</p>
+		`
+	},
+	{
 		title: 'Post Zaczepny',
 		slug: 'post-zaczepny',
 		date: '2020-10-23',
