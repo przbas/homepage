@@ -11,11 +11,14 @@
 
 <h1>Moje pasje</h1>
 
-<h3><a href='pasje/programowanie'>Programowanie</a></h3>
-<p>Tu pokarzę swoje dotychczasowe projekty.</p>
+<h2><a href='pasje/programowanie'>Programowanie</a></h2>
+<p>Moje dotychczasowe projekty związane z programowaniem.</p>
 
-<h3>Speedcubing</h3>
+<h2>Speedcubing</h2>
 <p>O kostce rubika.</p>
 
-<h3>Rolki</h3>
+<h2><a href="https://www.duolingo.com/profile/PrzemysawB879651" target="_blank">Duolingo</a></h2>
+<p>Człowiek całe życie się uczy.</p>
+
+<h2>Rolki</h2>
 <p>Jazda na rolkach.</p>

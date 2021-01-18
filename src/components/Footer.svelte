@@ -21,5 +21,5 @@
 </style>
 
 <footer>
-    <div>Copyright 2020 Przemysław Baśkiewicz</div>
+    <div>Copyright 2021 Przemysław Baśkiewicz</div>
 </footer>
