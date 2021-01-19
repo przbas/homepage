@@ -1,21 +1,3 @@
-<script>
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    
-    var disqus_config = function () {
-    this.page.url = "https://przbas.github.io/homepage/praca";  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = "przbas-homepage-praca"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://przbas-homepage-praca.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-</script>
-
 
 <svelte:head>
 	<title>Praca</title>
@@ -68,9 +50,5 @@
 <p>Technikum Zawodowe w Starachowicach <a href="https://technikum.net.pl/" target="_blank">technikum.net.pl</a></p>
 <p>Tytuł technik mechanik. Świetne podstawy do dalszej nauki na kierunkach technicznych szkół wyższych. W ramach zajęć dodatkowych, już było komputerowe wspomaganie projektowania CAD (AutoCAD).</p>
 <hr>
-
-<br>
-
-<div id="disqus_thread"></div>
 
 <br>
