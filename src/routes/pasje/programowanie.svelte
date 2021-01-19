@@ -26,6 +26,6 @@
 
 <br>
 
-<Comments identifier="przbas-homepage-pasje-programowanie" shortname="przbas-homepage-pasje-programowanie" />
+<Comments identifier="przbas-homepage-pasje-programowanie" url="https://przbas.github.io/homepage/pasje/programowanie" />
 
 <br>

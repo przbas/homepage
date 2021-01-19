@@ -1,5 +1,5 @@
 <script>
-    import Comments from "disqus-svelte";
+	import Comments from "disqus-svelte";
 </script> 
 
 <svelte:head>
@@ -56,6 +56,6 @@
 
 <br>
 
-<Comments identifier="przbas-homepage-praca" shortname="przbas-homepage-praca" />
+<Comments identifier="przbas-homepage-praca" url="https://przbas.github.io/homepage/praca" />
 
 <br>
