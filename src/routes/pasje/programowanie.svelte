@@ -1,7 +1,7 @@
 <script>
 	import Site from '../../components/Site.svelte';
 	import sites from './_sites.js';
-
+	import Comments from "disqus-svelte";
 </script>
 
 <style>
@@ -23,5 +23,9 @@
 		<Site title={site.title} url={site.url} thumbnail={site.thumbnail} description={site.description} />
 	{/each}
 </div>
+
+<br>
+
+<Comments identifier="przbas-homepage-pasje-programowanie" shortname="przbas-homepage-pasje-programowanie" />
 
 <br>

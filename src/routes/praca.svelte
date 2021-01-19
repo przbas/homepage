@@ -1,3 +1,6 @@
+<script>
+    import Comments from "disqus-svelte";
+</script> 
 
 <svelte:head>
 	<title>Praca</title>
@@ -50,5 +53,9 @@
 <p>Technikum Zawodowe w Starachowicach <a href="https://technikum.net.pl/" target="_blank">technikum.net.pl</a></p>
 <p>Tytuł technik mechanik. Świetne podstawy do dalszej nauki na kierunkach technicznych szkół wyższych. W ramach zajęć dodatkowych, już było komputerowe wspomaganie projektowania CAD (AutoCAD).</p>
 <hr>
+
+<br>
+
+<Comments identifier="przbas-homepage-praca" shortname="przbas-homepage-praca" />
 
 <br>
