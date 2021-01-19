@@ -1,7 +1,6 @@
 <script>
 	import Site from '../../components/Site.svelte';
 	import sites from './_sites.js';
-	import CommentsProgramowanie from "disqus-svelte";
 </script>
 
 <style>
@@ -23,9 +22,5 @@
 		<Site title={site.title} url={site.url} thumbnail={site.thumbnail} description={site.description} />
 	{/each}
 </div>
-
-<br>
-
-<CommentsProgramowanie identifier="przbas-homepage-pasje-programowanie" url="https://przbas.github.io/homepage/pasje/programowanie" container="pasje-programowanie-container" />
 
 <br>
