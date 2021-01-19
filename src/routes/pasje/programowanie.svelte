@@ -1,7 +1,7 @@
 <script>
 	import Site from '../../components/Site.svelte';
 	import sites from './_sites.js';
-	import Comments from "disqus-svelte";
+	import CommentsProgramowanie from "disqus-svelte";
 </script>
 
 <style>
@@ -26,6 +26,6 @@
 
 <br>
 
-<Comments identifier="przbas-homepage-pasje-programowanie" url="https://przbas.github.io/homepage/pasje/programowanie" />
+<CommentsProgramowanie identifier="przbas-homepage-pasje-programowanie" url="https://przbas.github.io/homepage/pasje/programowanie" container="pasje-programowanie-container" />
 
 <br>
