@@ -47,6 +47,7 @@
 <p>Ta strona jest wynikiem mojej pasji i zainteresowań.</p>
 
 <div class="socials">
+	<a href="mailto:przemyslaw.baskiewicz@gmail.com"><img class="icon" src="i_mail.svg" alt="mail"></a>
 	<a href="https://www.facebook.com/przbas" target="_blank"><img class="icon" src="i_facebook.svg" alt="fb"></a>
 	<a href="https://github.com/przbas" target="_blank"><img class="icon" src="i_github.svg" alt="git"></a>
 	<a href="https://www.linkedin.com/in/przemys%C5%82aw-ba%C5%9Bkiewicz-930478204/" target="_blank"><img class="icon" src="i_linkedin.svg" alt="in"></a>
