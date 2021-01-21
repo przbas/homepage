@@ -3,6 +3,12 @@
 </script>
 
 <style>
+	#logo {
+		height: 25px;
+		margin-bottom: -8px;
+		margin-top: -10px;
+	}
+
 	div {
 		position: fixed;
 		z-index: 100;
@@ -62,19 +68,19 @@
 		display: block;
 	}
 
-	/* Mobile */
+	/* Mobile 
 	@media (max-width: 500px) {
 		nav {
 			flex-direction: column;
 		}
-	}
+	} */
 
 </style>
 
 <div>
 	<nav>
 		<ul>
-			<li><a aria-current="{segment === undefined ? 'page' : undefined}" href=".">Przemysław Baśkiewicz</a></li>
+			<li><a aria-current="{segment === undefined ? 'page' : undefined}" href="."><img id="logo" src="favicon.png" alt="pb"></a></li>
 		</ul>
 		<ul>
 			<li><a aria-current="{segment === 'praca' ? 'page' : undefined}" href="praca">praca</a></li>
