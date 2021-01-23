@@ -52,3 +52,4 @@
 	<a href="https://github.com/przbas" target="_blank"><img class="icon" src="i_github.svg" alt="git"></a>
 	<a href="https://www.linkedin.com/in/przemys%C5%82aw-ba%C5%9Bkiewicz-930478204/" target="_blank"><img class="icon" src="i_linkedin.svg" alt="in"></a>
 </div>
+<br>
